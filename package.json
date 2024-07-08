@@ -1,0 +1,28 @@
+{
+	"name": "@cryptoscan/tsconfig",
+	"version": "1.0.0",
+	"description": "Shared TypeScript config for @cryptoscan projects",
+	"license": "MIT",
+	"repository": "cryptoscan-pro/tsconfig",
+	"funding": "https://github.com/sponsors/cryptoscan-pro",
+	"author": {
+		"name": "Cryptoscan",
+		"email": "info@cryptoscan.pro",
+		"url": "https://cryptoscan.pro"
+	},
+	"exports": "./tsconfig.json",
+	"sideEffects": false,
+	"engines": {
+		"node": ">=18"
+	},
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration"
+	]
+}
